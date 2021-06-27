@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/lista1/lista-1-angelomiray/minmax/src/function.cpp
+function.h
+/home/runner/lista1/lista-1-angelomiray/minmax/src/function.h
+
+/home/runner/lista1/lista-1-angelomiray/minmax/src/function.h
+utility
+-
+

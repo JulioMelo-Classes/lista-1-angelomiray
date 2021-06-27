@@ -8,9 +8,40 @@ using std::cout;
 using std::cin;
 using std::endl;
 
+int case1(int m, int n){
+	int som=m;
+
+	for(int i=m+1; i < m+n; ++i)
+        som += i;
+        
+    return som;
+}
+
+int case2(int m, int n){
+    int som=m;
+
+	for(int i=m-1; i > m+n; --i)
+        som += i;
+
+    return som;
+
+}
+
 int main( void )
 {
-    // TODO: Adicione seu código aqui. 
+    int m=0, n=0;
+
+    while(cin >> std::ws >> m >> n){
+        if(n > 0){
+            cout << case1(m, n) << endl;
+        }
+        else if(n < 0){
+            cout << case2(m, n) << endl;
+        }
+        else{
+            cout << m << endl;
+        }
+    }
 
     return 0;
 }

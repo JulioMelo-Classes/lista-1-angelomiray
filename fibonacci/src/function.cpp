@@ -1,9 +1,17 @@
 #include "function.h"
+#include <iostream>
 
 std::vector<unsigned int> fib_below_n( unsigned int n )
 {
-    // TODO: adicione o seu código aqui.
+    std::vector<unsigned int> fibo_values{};
+    int f1=1, f2=1, f3=2;
+    for(int i=0; f1 < n; ++i){
+        fibo_values.resize(i+1);
+        fibo_values[i] = f1;
+        f1=f2;
+        f2=f3;
+        f3=f1+f2; 
+    }
 
-    // TODO: Isto é apenas um STUB. Troque o retorno pelo que você julgar correto.
-    return std::vector<unsigned int>{};
+    return fibo_values;
 }

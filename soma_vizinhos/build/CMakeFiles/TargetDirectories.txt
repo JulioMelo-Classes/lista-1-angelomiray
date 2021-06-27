@@ -1,0 +1,4 @@
+/home/runner/lista1/lista-1-angelomiray/soma_vizinhos/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista1/lista-1-angelomiray/soma_vizinhos/build/CMakeFiles/program.dir
+/home/runner/lista1/lista-1-angelomiray/soma_vizinhos/build/CMakeFiles/edit_cache.dir
+/home/runner/lista1/lista-1-angelomiray/soma_vizinhos/build/CMakeFiles/verify.dir

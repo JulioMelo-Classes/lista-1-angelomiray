@@ -1,0 +1,4 @@
+/home/runner/lista1/lista-1-angelomiray/ponto_em_retangulo_2/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista1/lista-1-angelomiray/ponto_em_retangulo_2/build/CMakeFiles/program.dir
+/home/runner/lista1/lista-1-angelomiray/ponto_em_retangulo_2/build/CMakeFiles/edit_cache.dir
+/home/runner/lista1/lista-1-angelomiray/ponto_em_retangulo_2/build/CMakeFiles/verify.dir

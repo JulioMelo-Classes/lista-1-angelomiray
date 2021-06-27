@@ -1,0 +1,4 @@
+/home/runner/lista1/lista-1-angelomiray/negativos5/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista1/lista-1-angelomiray/negativos5/build/CMakeFiles/program.dir
+/home/runner/lista1/lista-1-angelomiray/negativos5/build/CMakeFiles/edit_cache.dir
+/home/runner/lista1/lista-1-angelomiray/negativos5/build/CMakeFiles/verify.dir
