@@ -1,4 +1,0 @@
-/home/runner/lista1/lista-1-angelomiray/intervalos/build/CMakeFiles/rebuild_cache.dir
-/home/runner/lista1/lista-1-angelomiray/intervalos/build/CMakeFiles/program.dir
-/home/runner/lista1/lista-1-angelomiray/intervalos/build/CMakeFiles/edit_cache.dir
-/home/runner/lista1/lista-1-angelomiray/intervalos/build/CMakeFiles/verify.dir

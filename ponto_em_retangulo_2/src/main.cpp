@@ -32,6 +32,7 @@ void exchange(Ponto &r1, Ponto &r2){
     r2.y = aux.y;
 }
 
+/*ok!*/
 
 int main(void)
 {

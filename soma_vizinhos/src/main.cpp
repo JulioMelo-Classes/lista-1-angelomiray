@@ -26,7 +26,9 @@ int case2(int m, int n){
     return som;
 
 }
-
+/*
+acho que a ideia de dividir em case1 e case2 faz sentido, mas eu não dividiria assim =)
+*/
 int main( void )
 {
     int m=0, n=0;

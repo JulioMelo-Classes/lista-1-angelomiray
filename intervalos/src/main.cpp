@@ -10,7 +10,7 @@ using std::setprecision;
 void def_porcentagem(int value, int total){
     cout << setprecision(4) << (value*100)/(float)total << endl;
 }
-
+/*ok, bom trabalho modularizando!*/
 int main(void)
 {
     int x;

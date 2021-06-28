@@ -1,5 +1,0 @@
-/home/runner/lista1/lista-1-angelomiray/minmax/build/CMakeFiles/edit_cache.dir
-/home/runner/lista1/lista-1-angelomiray/minmax/build/CMakeFiles/run_tests.dir
-/home/runner/lista1/lista-1-angelomiray/minmax/build/CMakeFiles/rebuild_cache.dir
-/home/runner/lista1/lista-1-angelomiray/minmax/build/CMakeFiles/func.dir
-/home/runner/lista1/lista-1-angelomiray/minmax/build/CMakeFiles/all_tests.dir
